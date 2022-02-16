@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Responses to questions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004/c4593d42af9a80830f0c05e622efe775_responses_9_2.pdf
+file: /media/courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004/c4593d42af9a80830f0c05e622efe775_responses_9_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: responses_9_2.pdf
 uid: c4593d42-af9a-8083-0f0c-05e622efe775
