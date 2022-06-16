@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Constructing the Past ([PDF]({{< baseurl >}}/resources/4_645_week_01))  
+Constructing the Past ({{% resource_link 5160fdd8-ac2d-c074-8603-36908eea4d8f "PDF" %}})  
   
 Exploring Forth and Digging Under
 {{< tdclose >}}
@@ -38,7 +39,7 @@ Exploring Forth and Digging Under
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Prelude to an Architecture of Globalization: The Transatlantic Slave Trade ([PDF]({{< baseurl >}}/resources/4_645_week_02))
+Prelude to an Architecture of Globalization: The Transatlantic Slave Trade ({{% resource_link 247e3ace-c58b-0861-24cc-59017edd1013 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +48,7 @@ Prelude to an Architecture of Globalization: The Transatlantic Slave Trade ([PDF
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Landscape ([PDF]({{< baseurl >}}/resources/4_645_week_03))  
+Landscape ({{% resource_link 369cbf11-646b-7e68-8f89-434a83420472 "PDF" %}})  
   
 The Politics of Site
 {{< tdclose >}}
@@ -67,7 +68,7 @@ Architecture and Industrialism, Part 1: The Ghosts of Technology
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Architecture as Ornament ([PDF]({{< baseurl >}}/resources/4_645_week_05))
+Architecture as Ornament ({{% resource_link 5eae772e-9232-e944-4453-141dd4fb27af "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +86,7 @@ Architecture and Industrialism, Part 2: Masses, Classes and Regions
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Domesticity; Gender in Space ([PDF]({{< baseurl >}}/resources/4_645_week_07))
+Domesticity; Gender in Space ({{% resource_link 5cbf031a-5622-e36f-a756-98d4ca5fe3df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +104,7 @@ Making of the Modernist Avant-Garde and the Operative Historian
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Body Talk ([PDF]({{< baseurl >}}/resources/4_645_week_09))  
+Body Talk ({{% resource_link 4c8eb7c3-c68c-1fb4-6330-3f9727a6da6f "PDF" %}})  
   
 Body as Metaphor in Architecture
 {{< tdclose >}}
@@ -114,7 +115,7 @@ Body as Metaphor in Architecture
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Ludic Spaces ([PDF]({{< baseurl >}}/resources/4_645_week_10))  
+Ludic Spaces ({{% resource_link 30e16729-514b-344a-86d6-ef612ebaf2d7 "PDF" %}})  
   
 The Architecture of Play
 {{< tdclose >}}
@@ -127,7 +128,7 @@ The Architecture of Play
 {{< tdopen >}}
 Lines Across the City  
   
-Architecture and the State ([PDF]({{< baseurl >}}/resources/4_645_week_11))
+Architecture and the State ({{% resource_link 928dfd11-1937-2a7b-697f-a86d106fe410 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +137,7 @@ Architecture and the State ([PDF]({{< baseurl >}}/resources/4_645_week_11))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Post-War Narratives of "Development" ([PDF]({{< baseurl >}}/resources/4_645_week_12))
+Post-War Narratives of "Development" ({{% resource_link 5b1f7274-1d40-32f7-66d3-61f25f5a071e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +146,7 @@ Post-War Narratives of "Development" ([PDF]({{< baseurl >}}/resources/4_645_week
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Final Lecture ([PDF]({{< baseurl >}}/resources/4_645_week_13))
+Final Lecture ({{% resource_link fd1ad284-0c0d-6272-6ffc-ebbd12ef5f1a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

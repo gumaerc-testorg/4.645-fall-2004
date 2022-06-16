@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -64,11 +65,11 @@ Prelude to an Architecture of Globalization: The Transatlantic Slave Trade
 2-3: Last week, in the session on archaeology, we observed how the disinterring of ruins created the positive terms for constructing a memory for the nation-state. Hortense Spillers' theorization of the "vestibular space" in the trans-Atlantic slave ship suggests that, for some populations at least, such positive terms of patrimony may have become irrevocable in their emergence into modernity. Expand on this concept. Can you think of any other examples of such vestibular spaces? Qualify.
 {{< tdclose >}}
 {{< tdopen >}}
-Responses to Question 2-1 ([PDF]({{< baseurl >}}/resources/responses_2_1))  
+Responses to Question 2-1 ({{% resource_link eaa39358-3444-4819-31c8-8ee3aa0f209f "PDF" %}})  
   
-Responses to Question 2-2 ([PDF]({{< baseurl >}}/resources/responses_2_2))  
+Responses to Question 2-2 ({{% resource_link 38dc0776-9f95-eb21-afdc-5e76f6b30efd "PDF" %}})  
   
-Responses to Question 2-3 ([PDF]({{< baseurl >}}/resources/responses_2_3))
+Responses to Question 2-3 ({{% resource_link fb2d28e8-d5e3-2133-cead-80e9132ddc7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,9 +90,9 @@ The Politics of Site
 3-3: Speculate on, by way of example, how the creation of maps, inasmuch as they document the existing state of the ground, relies as much on the pre-existing conceptions and interests of the mapmaking persons and institutions involved.
 {{< tdclose >}}
 {{< tdopen >}}
-Responses to Question 3-2 ([PDF]({{< baseurl >}}/resources/responses_3_2))  
+Responses to Question 3-2 ({{% resource_link 8a16355b-1147-9e6e-280a-8c323255eca3 "PDF" %}})  
   
-Responses to Question 3-3 ([PDF]({{< baseurl >}}/resources/responses_3_3))
+Responses to Question 3-3 ({{% resource_link 3537c1ea-328c-c70d-c8b5-5cb2a87413f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,11 +111,11 @@ Architecture and Industrialism, Part 1: The Ghosts of Technology
 4-3: How do you explain the "webbing" and "filigree" in buildings like Eiffel's 1889 Tower and the Galerie des Machines in the context of the engineering advances of the nineteenth century?
 {{< tdclose >}}
 {{< tdopen >}}
-Responses to Question 4-1 ([PDF]({{< baseurl >}}/resources/responses_4_1))  
+Responses to Question 4-1 ({{% resource_link 660da05e-42af-47fc-05af-19bf611c8623 "PDF" %}})  
   
-Responses to Question 4-2 ([PDF]({{< baseurl >}}/resources/responses_4_2))  
+Responses to Question 4-2 ({{% resource_link d53e041b-f55a-3681-2822-3b1d57964d8b "PDF" %}})  
   
-Responses to Question 4-3 ([PDF]({{< baseurl >}}/resources/responses_4_3))
+Responses to Question 4-3 ({{% resource_link eaf4e7e1-8c3f-73bf-81d3-1f5d0517ae3c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,11 +134,11 @@ Architecture as Ornament
 5-3: What is, and what is not, ornament? What is its use?
 {{< tdclose >}}
 {{< tdopen >}}
-Responses to Question 5-1 ([PDF]({{< baseurl >}}/resources/responses_5_1))  
+Responses to Question 5-1 ({{% resource_link f59e025a-76b6-454b-198d-6d7c205f4fd4 "PDF" %}})  
   
-Responses to Question 5-2 ([PDF]({{< baseurl >}}/resources/responses_5_2))  
+Responses to Question 5-2 ({{% resource_link f7519a56-72af-0bca-92cf-a825b025bee5 "PDF" %}})  
   
-Responses to Question 5-3 ([PDF]({{< baseurl >}}/resources/responses_5_3))
+Responses to Question 5-3 ({{% resource_link f9d1f1f8-b741-20ff-e957-1eecba6eb666 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,11 +157,11 @@ Architecture and Industrialism, Part 2: Masses, Classes and Regions
 6-3: Compare the idealist and utopian proposals for cities and communities made by architects to the paternalist strategies adopted by industrialists.
 {{< tdclose >}}
 {{< tdopen >}}
-Responses to Question 6-1 ([PDF]({{< baseurl >}}/resources/61))  
+Responses to Question 6-1 ({{% resource_link 2f303c25-9e1e-0f14-e942-9e0908057181 "PDF" %}})  
   
-Responses to Question 6-2 ([PDF]({{< baseurl >}}/resources/responses_6_2))  
+Responses to Question 6-2 ({{% resource_link a8526366-2563-50a9-2913-734df7941652 "PDF" %}})  
   
-Responses to Question 6-3 ([PDF]({{< baseurl >}}/resources/responses_6_3))
+Responses to Question 6-3 ({{% resource_link 0c592fed-7bb9-f1b4-88ea-6f6d34218da0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,11 +182,11 @@ Gender in Space
 7-3: Describe some key areas or objects around which gender differentiations might be said to unfold in domestic space.
 {{< tdclose >}}
 {{< tdopen >}}
-Responses to Question 7-1 ([PDF]({{< baseurl >}}/resources/responses_7_1))  
+Responses to Question 7-1 ({{% resource_link 40c8b04f-7d1c-f027-5fbc-7eba07ab4cbf "PDF" %}})  
   
-Responses to Question 7-2 ([PDF]({{< baseurl >}}/resources/responses_7_2))  
+Responses to Question 7-2 ({{% resource_link 43467533-c914-a673-8ee4-d3a2d09b96fa "PDF" %}})  
   
-Responses to Question 7-3 ([PDF]({{< baseurl >}}/resources/responses_7_3))
+Responses to Question 7-3 ({{% resource_link 6b5ed089-5173-3e62-6d87-d8e98bd85701 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,9 +205,9 @@ Making of the Modernist Avant-Garde and the Operative Historian
 8-3: Are all examples of paper architecture - idealistic manifestoes of forward looking architecture by vanguard architects - a form of publicity?
 {{< tdclose >}}
 {{< tdopen >}}
-Responses to Question 8-2 ([PDF]({{< baseurl >}}/resources/responses_8_2))  
+Responses to Question 8-2 ({{% resource_link 6cd71dad-9e6f-5c82-f014-9cba8af2d679 "PDF" %}})  
   
-Responses to Question 8-3 ([PDF]({{< baseurl >}}/resources/responses_8_3))
+Responses to Question 8-3 ({{% resource_link f15f427b-7d74-6bd0-51e1-15546ac5498b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -227,11 +228,11 @@ Body as Metaphor in Architecture
 9-3: Differentiate, if you can, the spatial implications of workers, robots, and cyborgs.
 {{< tdclose >}}
 {{< tdopen >}}
-Responses to Question 9-1 ([PDF]({{< baseurl >}}/resources/responses_9_1))  
+Responses to Question 9-1 ({{% resource_link 35e9860f-f11f-4a05-1fc1-9ce2fa85c668 "PDF" %}})  
   
-Responses to Question 9-2 ([PDF]({{< baseurl >}}/resources/responses_9_2))  
+Responses to Question 9-2 ({{% resource_link c4593d42-af9a-8083-0f0c-05e622efe775 "PDF" %}})  
   
-Responses to Question 9-3 ([PDF]({{< baseurl >}}/resources/responses_9_3))
+Responses to Question 9-3 ({{% resource_link f9da2a5e-da46-3ecf-68be-fd36e97a18d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,11 +253,11 @@ The Architecture of Play
 10-3: What do you make of the fact that some of the most radical achievements of technology in architecture have been realized in the context of the ephemeral sites of pleasure and consumption: the exhibition, the World's Fairs, and so on?
 {{< tdclose >}}
 {{< tdopen >}}
-Responses to Question 10-1 ([PDF]({{< baseurl >}}/resources/responses_10_1))  
+Responses to Question 10-1 ({{% resource_link cb6be2ef-9b1d-66d8-d852-21d2a5df22b5 "PDF" %}})  
   
-Responses to Question 10-2 ([PDF]({{< baseurl >}}/resources/responses_10_2))  
+Responses to Question 10-2 ({{% resource_link f603285a-d09b-a6f4-1175-7369a8284150 "PDF" %}})  
   
-Responses to Question 10-3 ([PDF]({{< baseurl >}}/resources/responses_10_3))
+Responses to Question 10-3 ({{% resource_link cf11de19-bd91-ee19-4e08-5414e905c4a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,9 +278,9 @@ Architecture and the State
 11-3: Particular acts of insurgency necessarily engage certain forms of architecture. Do you agree? If so, or not, explain with examples.
 {{< tdclose >}}
 {{< tdopen >}}
-Responses to Question 11-1 ([PDF]({{< baseurl >}}/resources/responses_11_1))  
+Responses to Question 11-1 ({{% resource_link 15ff0770-b4ee-2312-364f-321416a92c0e "PDF" %}})  
   
-Responses to Question 11-3 ([PDF]({{< baseurl >}}/resources/responses_11_3))
+Responses to Question 11-3 ({{% resource_link a8cb10ef-94d0-c75c-3103-1b576455919d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

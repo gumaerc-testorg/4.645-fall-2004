@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Responses to questions.
-file: /media/courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004/8a16355b11479e6e280a8c323255eca3_responses_3_2.pdf
+file: /courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004/8a16355b11479e6e280a8c323255eca3_responses_3_2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: responses_3_2.pdf
 uid: 8a16355b-1147-9e6e-280a-8c323255eca3
 ---
+Responses to questions.
+
