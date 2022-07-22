@@ -7,6 +7,7 @@ file: /courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-t
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: responses_10_2.pdf
 uid: f603285a-d09b-a6f4-1175-7369a8284150
 ---
 Example of a student's response to Question 10-2: How do more critical" projects of pleasure such as the Situationists, Constant, Archigram, etc. compare to consumptive theatres such as Disneyland? Is there a difference?
-

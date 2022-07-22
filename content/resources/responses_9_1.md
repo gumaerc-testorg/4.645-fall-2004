@@ -5,6 +5,7 @@ file: /courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-t
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: responses_9_1.pdf
 uid: 35e9860f-f11f-4a05-1fc1-9ce2fa85c668
 ---
 Adobe? Reader? software is required to view this .pdf file.
-
