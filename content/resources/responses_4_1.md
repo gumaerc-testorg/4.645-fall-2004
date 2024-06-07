@@ -2,6 +2,7 @@
 content_type: resource
 description: Responses to questions.
 file: /courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004/660da05e42af47fc05af19bf611c8623_responses_4_1.pdf
+file_size: 69206
 file_type: application/pdf
 learning_resource_types:
 - Assignments
