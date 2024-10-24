@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Responses to question.
-file: /courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004/f9d1f1f8b74120ffe9571eecba6eb666_responses_5_3.pdf
+file: /ol-ocw-studio-app/courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004/f9d1f1f8b74120ffe9571eecba6eb666_responses_5_3.pdf
 file_size: 104912
 file_type: application/pdf
 learning_resource_types:
