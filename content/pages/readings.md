@@ -126,7 +126,7 @@ Wohlfarth, Irving. "'Construction Has the Role of the Subconscious': Phantasmago
 
 *Suggested Readings*
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262521246) Banham, Reyner. "Modernism and Americanism." Chapter 3 in *A Concrete Atlantis: U. S. Industrial Building and European Modern Architecture*. Cambridge, MA: MIT Press, 1989. ISBN: 9780262521246.
+{{% resource_link "fe114de4-20d7-493c-9d56-2d1c894ebb69" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Banham, Reyner. "Modernism and Americanism." Chapter 3 in *A Concrete Atlantis: U. S. Industrial Building and European Modern Architecture*. Cambridge, MA: MIT Press, 1989. ISBN: 9780262521246.
 
 Wigley, Mark. "The Electric Lawn." Chapter 7 in *The American Lawn*. Edited by Georges Teyssot. New York: Princeton Architectural Press, 1999.
 
@@ -136,7 +136,7 @@ McLeod, Mary. "'Architecture or Revolution': Taylorism, Technocracy, and Social 
 
 Frampton, Kenneth. "Industrialization and the Crises in Architecture." *Oppositions*, no. 1.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122306) Leatherbarrow, David. "The Topographical Horizon of Dwelling Equipment." Chapter 4 in *Uncommon Ground: Architecture, Technology, and Topography*. Cambridge, MA: MIT Press, 2000. ISBN: 9780262122306.
+{{% resource_link "75f00a4b-32e7-4ab3-b4d1-264038f55b18" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Leatherbarrow, David. "The Topographical Horizon of Dwelling Equipment." Chapter 4 in *Uncommon Ground: Architecture, Technology, and Topography*. Cambridge, MA: MIT Press, 2000. ISBN: 9780262122306.
 
 Benton, Tim. "Dreams of Machines: Futurism and l'Esprit Nouveau." *Journal of Design History* 3, no. 1 (1990).
 
@@ -154,7 +154,7 @@ Architecture as Ornament
 
 *Required Readings*
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262530309) Loos, Adolf. "Ornament and Crime." In *Programs and Manifestos on 20th-Century Architecture*. Edited by Ulrich Conrads. Cambridge, MA: MIT Press, 1975. ISBN: 9780262530309.
+{{% resource_link "c3fc1a1d-2f0f-492a-a013-8c17bda59ac5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Loos, Adolf. "Ornament and Crime." In *Programs and Manifestos on 20th-Century Architecture*. Edited by Ulrich Conrads. Cambridge, MA: MIT Press, 1975. ISBN: 9780262530309.
 
 Keyser, Barbara Whitney. "Ornament as Idea; Indirect Imitation of Nature in the Design Reform Movement." *Journal of Design History* 11, no. 2 (1998).
 
@@ -214,11 +214,11 @@ Gender in Space
 
 McClintock, Anne. "Imperial Leather: Race, Cross-dressing and the Cult of Domesticity." Chapter 3 in *Imperial Leather: Race, Gender and Sexuality in the Colonial Context*. New York: Routledge, 1995. ISBN: 0415908906.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032148) Colomina, Beatriz. "Interior." In *Privacy and Publicity: Modern Architecture as Mass Media*. Cambridge: MIT Press, 1994. ISBN: 9780262032148.
+{{% resource_link "6f5a3ecf-9647-4e79-b3ef-6f12257bc793" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Colomina, Beatriz. "Interior." In *Privacy and Publicity: Modern Architecture as Mass Media*. Cambridge: MIT Press, 1994. ISBN: 9780262032148.
 
 Benjamin, Walter. \[Prostitution, Gambling\], Convolute O, *The Arcades Project*. Translated by Howard Eiland, and Kevin McLaughlin. Cambridge, MA: The Belknap Press, 1999. ISBN: 067404326X.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262580557) Hayden, Dolores. Chapter 2 "Socialism in Model Villages," and Chapter 3 "Feminism in Model Households." In *The Grand Domestic Revolution*. Cambridge, MA: MIT Press, 1982. ISBN: 9780262580557.
+{{% resource_link "2117af33-6f88-4aa9-849f-5b797602ad3c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hayden, Dolores. Chapter 2 "Socialism in Model Villages," and Chapter 3 "Feminism in Model Households." In *The Grand Domestic Revolution*. Cambridge, MA: MIT Press, 1982. ISBN: 9780262580557.
 
 *Suggested Readings*
 
@@ -256,7 +256,7 @@ Georgiadis, Sokratis. "Introduction" to Giedion, Sigfried. *Building in France, 
 
 Ingberman, Sima. *ABC: International Constructivist Architecture, 1922-1939*. Parts 1, 2, and 3. Cambridge, MA: MIT Press, 1994. ISBN: 9780262090315.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262530309) Conrads, Ulrich, ed. *Programs and Manifestoes on 20th-Century Architecture*. Cambridge, MA: MIT Press, 1975. ISBN: 9780262530309.
+{{% resource_link "c3fc1a1d-2f0f-492a-a013-8c17bda59ac5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Conrads, Ulrich, ed. *Programs and Manifestoes on 20th-Century Architecture*. Cambridge, MA: MIT Press, 1975. ISBN: 9780262530309.
 
 Selections -
 
@@ -292,7 +292,7 @@ Film: *Part of the Struggle: Art and Politics, Germany 1919-1933*.
 
 Troy, Nancy. "Total Abstraction: Color in Space." Chapter 4 in *The De Stijl Environment*. Cambridge, MA: MIT Press, 1983.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262022897) Lipstadt, Hélène. "Architectural Publications, Competitions and Exhibitions." In *Architecture and its Image: Four Centuries of Architectural Representation*. Edited by Eve Blau, and Edward Kaufman. Cambridge, MA: MIT Press, 1989. ISBN: 9780262022897.
+{{% resource_link "960ee499-669e-4186-ab1a-9016cd490ecf" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lipstadt, Hélène. "Architectural Publications, Competitions and Exhibitions." In *Architecture and its Image: Four Centuries of Architectural Representation*. Edited by Eve Blau, and Edward Kaufman. Cambridge, MA: MIT Press, 1989. ISBN: 9780262022897.
 
 Hochman, Elaine S. "Death and Transfiguration." Chapter 15 in *Bauhaus: Crucible of Modernism*. New York: Fromm International, 1997.
 
@@ -300,13 +300,13 @@ Bergius, Hanne. "Architecture as the Dionyisian-Apollonian Process of Dada." In 
 
 Cohen, Jean-Louis. "Le Corbusier's Nietzschean Metaphors." In *Nietzsche and 'an Architecture of Our Minds'*. Edited by Irving Wohlfarth, and Alexandre Kostka. Los Angeles: The Getty Research Institute, 1999.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262700207) Tafuri, Manfredo. "The Dialectic of the Avant-Garde." Chapter 4 in *Architecture and Utopia: Design and Capitalist Development*. Cambridge, MA: MIT Press, 1979. ISBN: 9780262700207.
+{{% resource_link "97e7cd2f-6efc-423a-a925-7336c3b1718c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tafuri, Manfredo. "The Dialectic of the Avant-Garde." Chapter 4 in *Architecture and Utopia: Design and Capitalist Development*. Cambridge, MA: MIT Press, 1979. ISBN: 9780262700207.
 
 Burger, Peter. "The Avant-Gardiste Work of Art." Chapter 4 in *The Theory of the Avant-Garde*. Minnesota, MN: University of Minnesota, 1984.
 
 Gough, Maria. "In the Laboratory of Constructivism." *October*, no. 84: 90.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262022897) Bruegmann, Robert. "The Pencil and the Electronic Sketchboard: Architectural Representation and the Computer." In *Architecture and its Image: Four Centuries of Architectural Representation*. Edited by Eve Blau, and Edward Kaufman. Cambridge, MA: MIT Press, 1989. ISBN: 9780262022897.
+{{% resource_link "960ee499-669e-4186-ab1a-9016cd490ecf" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bruegmann, Robert. "The Pencil and the Electronic Sketchboard: Architectural Representation and the Computer." In *Architecture and its Image: Four Centuries of Architectural Representation*. Edited by Eve Blau, and Edward Kaufman. Cambridge, MA: MIT Press, 1989. ISBN: 9780262022897.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -332,11 +332,11 @@ Braham, William. "Sigfried Giedion and the Fascination of the Tub." In *Plumbing
 
 Rabinbach, Anson. "Time and Motion: Etienne-Jules Marey and the Mechanics of the Body." Chapter 4 in *The Human Motor: Energy, Fatigue, and the Origins of Modernity*. Berkeley, CA: University of California Press, 1990.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262571494) Grosz, Elizabeth. "Embodied Utopias: The Time of Architecture." Chapter 8 in *Architecture From the Outside: Essays on Virtual and Real Space*. Cambridge, MA: MIT Press, 2001. ISBN: 9780262571494.
+{{% resource_link "09164e55-d527-4386-97bc-d78e85d38800" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Grosz, Elizabeth. "Embodied Utopias: The Time of Architecture." Chapter 8 in *Architecture From the Outside: Essays on Virtual and Real Space*. Cambridge, MA: MIT Press, 2001. ISBN: 9780262571494.
 
 Bergren, Ann. "The (Re)Marriage of Penelope and Odysseus: Architecture Gender Philosophy." *Assemblage*, no. 21. (August 1993). Cambridge, MA: MIT Press.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262122252) Laporte, Dominique. "The Colonial Thing." Chapter 3 in *The History of Shit*. Cambridge, MA: MIT Press, 2000. ISBN: 9780262122252.
+{{% resource_link "7db00abb-9218-41e0-9aa8-ea5e85a01856" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Laporte, Dominique. "The Colonial Thing." Chapter 3 in *The History of Shit*. Cambridge, MA: MIT Press, 2000. ISBN: 9780262122252.
 
 Agrest, Diana I. "Architecture From Without: Body, Logic and Sex." *Assemblage*, no. 7. (October 1988). Cambridge, MA: MIT Press.
 
@@ -418,7 +418,7 @@ Cohen, Jean-Louis. "When Stalin Meets Hausmann." pp. 246-248.
 
 *Suggested Readings*
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262024648) Buck-Morss, Susan. Chapter 2 "On Time," and Chapter 5 "Dream and Awakening." In *Dreamworld and Catastrophe: The Passing of Mass Utopia in East and West*. Cambridge, MA: MIT Press, 2000. ISBN: 9780262024648.
+{{% resource_link "cb4437e8-6e93-426d-a4fa-82e932aba500" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Buck-Morss, Susan. Chapter 2 "On Time," and Chapter 5 "Dream and Awakening." In *Dreamworld and Catastrophe: The Passing of Mass Utopia in East and West*. Cambridge, MA: MIT Press, 2000. ISBN: 9780262024648.
 
 Schorske, Carl E. "The Ringstrasse, Its Critics and the Birth of Urban Modernism." In *Fin-de-Siècle Vienna: Politics and Culture*. New York: Vintage House, 1981.
 
@@ -484,13 +484,13 @@ Colquhoun, Alan. *Modern Architecture*. Oxford: Oxford University Press, 2002.
 
 Frampton, Kenneth. *Modern Architecture: A Critical History*. London: Thames and Hudson, 1992.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061858) Benevolo, Leonardo. *History of Modern Architecture Vol. 1*, and *Vol. 2*. Cambridge, MA: MIT Press, 1977.
+{{% resource_link "e1a05abc-c710-47e7-81cc-0079ace9794f" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Benevolo, Leonardo. *History of Modern Architecture Vol. 1*, and *Vol. 2*. Cambridge, MA: MIT Press, 1977.
 
 Tafuri, Manfredo. *Theories and Histories of Architecture*. Translated by Giorgio Verrecchia. New York: Harper & Row, 1980.
 
 Tafuri, Manfredo. *Modern Architecture*. New York: Harry N. Abrams, 1980.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201179) Tournikiotis, Panayotis. *The Historiography of Modern Architecture*. Cambridge, MA: MIT Press, 1999. ISBN: 9780262201179.
+{{% resource_link "85f57dd8-f139-40ff-a46e-91a589411194" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tournikiotis, Panayotis. *The Historiography of Modern Architecture*. Cambridge, MA: MIT Press, 1999. ISBN: 9780262201179.
 
 Kruft, Hanno Walter. *A History of Architectural Theory from Vitruvius to the Present*. New York: Princeton Architectural Press, 1994.
 
